@@ -58,7 +58,7 @@ Make to really dwell on what use cases your library is not a good fit for. You s
 
 Favorably consider adding a "work-in-progress" notice at the very top and/or in github's one-liner project description box, till you feel your library is sufficiently modular and tested by few others, to be fit for use by total strangers.
 
-### API, modularity, naming lingo
+### API, Modularity, naming Lingo
 
 Dwell on how usable is your API, how modular are the key parts of your library, and even the names and argument passing conventions of your public functions. Code that simply worked, might need a thorough facelift now that it is serving a more generic role; prior function names might have been domain-specific (if not proprietary) whereas the library you are exposing might deserve more generic lingo, if only to avoid sporting idiosyncratic terminology.
 
